@@ -23,11 +23,6 @@
         </div>
 
         <div class="mb-3">
-            <label for="" class="form-label">Precio del producto</label>
-            <input type="text" class="form-control">
-        </div>
-
-        <div class="mb-3">
             <label for="" class="form-label">cantidad</label>
             <input type="text" class="form-control">
         </div>
