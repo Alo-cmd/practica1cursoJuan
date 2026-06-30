@@ -32,8 +32,15 @@
             <input type="text" class="form-control">
         </div>
 
-        <button type="submit">Enviar</button>
+         <div class="mb-3">
+            <label for="" class="form-label">cantidad</label>
+            <input type="text" class="form-control">
+        </div>
 
+         <div class="mb-3">
+            <label for="" class="form-label">cantidad</label>
+            <input type="text" class="form-control">
+        </div>
 
     </form>
 </body>
